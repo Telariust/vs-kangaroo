@@ -1,5 +1,6 @@
 # vs-kangaroo
 Pollard, kangaroo method, solving discrete logarithm problem (DLP) using pseudorandom walks, c++.
+
 Based on engine VanitySearch1.15
 
 Runtime expected of 2w<sup>1/2</sup> group operations.
